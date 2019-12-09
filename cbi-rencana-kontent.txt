@@ -5,6 +5,7 @@ RENCANA KONTEN CBI
   * Framework javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Fundamental Data Dasar
 - php framework
   ^ Laravel
