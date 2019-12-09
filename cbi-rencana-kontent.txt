@@ -1,5 +1,8 @@
 RENCANA KONTEN CBI
+
 - Javascript
+  * ES6
+  * Framework javascript
 - php framework
 - Interview
 - Vlogs
