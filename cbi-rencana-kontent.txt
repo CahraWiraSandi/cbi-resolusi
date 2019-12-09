@@ -3,7 +3,9 @@ RENCANA KONTEN CBI
 - Javascript
   * ES6
   * Framework javascript
-- Fundamental Data Dasar
+    ^ Angular
+    ^ React
 - php framework
+  ^ Laravel
 - Interview
 - Vlogs
