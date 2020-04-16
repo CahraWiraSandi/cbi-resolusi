@@ -8,6 +8,7 @@ RENCANA KONTEN CBI
     ^ Angular
 - Fundamental Data Dasar
 - php framework
+  ^ codeignter
   ^ Laravel
 - Interview
 - Vlogs
